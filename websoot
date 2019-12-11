@@ -1,0 +1,40 @@
+<DOCTYPE html>
+<html>
+<head>	
+<style>
+body {
+  height: 100%;
+  width: 100%;
+  background-color: green;
+  text-align: center;
+}
+header {
+	box-shadow: 10px 10px 15px black;
+	text-shadow: 4px 4px 5px black;
+	padding: 60px;
+	text-align: center;
+	background-image: linear-gradient(red, yellow, green);
+	color: white;
+	font-size: 30px;
+}
+.pics {
+	padding-top: 100px;
+}
+</style>
+</head>
+
+<header>
+	<h1 style="color: #5D00FF">Hey i'm Ricky</h1>
+</header>
+<div class="pics">
+<img src="https://assets1.ignimgs.com/2019/11/21/baby-yoda-blogroll-1574373077658.png?width=1280" alt="hi im steve" width="640" height="360" class="center" border="5">
+</div>
+
+<body>
+	
+	<p style="color: #5D00FF" >Hello</p>
+
+
+
+</body>
+</html>
